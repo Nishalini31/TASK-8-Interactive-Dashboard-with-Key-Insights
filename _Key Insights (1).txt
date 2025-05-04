@@ -1,0 +1,6 @@
+Key Insights 
+East Region: While not the highest, the East region shows substantial profitability.
+South Region: The South lags behind in both maximum profit and total sales.
+Furniture Sales: Furniture sales are significantly lower than technology and office supplies.
+Visualization Elements: The dashboard effectively utilizes charts for clarity in presenting sales, profits, and product distributions.
+
